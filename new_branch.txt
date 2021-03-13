@@ -1,5 +1,0 @@
-# try to create new branch localy
-
-# try to pull new vesion of the branch 
-
-# see all changes
